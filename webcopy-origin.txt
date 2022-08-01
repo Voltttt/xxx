@@ -1,0 +1,76 @@
+Uri: https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap
+File Name: C:\Downloaded Web Sites\www.monkeyflip.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v11/rP2Cp2ywxg089UriASitOB8.ttf
+File Name: C:\Downloaded Web Sites\www.monkeyflip.app\s\dmsans\v11\rP2Cp2ywxg089UriASitOB8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v11/rP2Cp2ywxg089UriAWCrOB8.ttf
+File Name: C:\Downloaded Web Sites\www.monkeyflip.app\s\dmsans\v11\rP2Cp2ywxg089UriAWCrOB8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v11/rP2Hp2ywxg089UriOZQ.ttf
+File Name: C:\Downloaded Web Sites\www.monkeyflip.app\s\dmsans\v11\rP2Hp2ywxg089UriOZQ.ttf
+Content Type: font/ttf
+
+Uri: https://www.monkeyflip.app/
+File Name: C:\Downloaded Web Sites\www.monkeyflip.app\index.htm
+Content Type: text/html
+
+Uri: https://www.monkeyflip.app/favicon1.ico
+File Name: C:\Downloaded Web Sites\www.monkeyflip.app\favicon1.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.monkeyflip.app/monkeys/tail.png
+File Name: C:\Downloaded Web Sites\www.monkeyflip.app\monkeys\tail.png
+Content Type: image/png
+
+Uri: https://www.monkeyflip.app/_next/image?url=%2Fmonkeys%2Fmonkey3.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\www.monkeyflip.app\_next\monkey3.png
+Content Type: image/png
+
+Uri: https://www.monkeyflip.app/_next/image?url=%2Fmonkeys%2Fmonkey3.png&w=96&q=75
+File Name: C:\Downloaded Web Sites\www.monkeyflip.app\_next\monkey3-1.png
+Content Type: image/png
+
+Uri: https://www.monkeyflip.app/_next/static/chunks/408-b2d7a954698d84d1.js
+File Name: C:\Downloaded Web Sites\www.monkeyflip.app\_next\static\chunks\408-b2d7a954698d84d1.js
+Content Type: application/javascript
+
+Uri: https://www.monkeyflip.app/_next/static/chunks/framework-715a76d8b0695da7.js
+File Name: C:\Downloaded Web Sites\www.monkeyflip.app\_next\static\chunks\framework-715a76d8b0695da7.js
+Content Type: application/javascript
+
+Uri: https://www.monkeyflip.app/_next/static/chunks/main-e0ddca6ca271803b.js
+File Name: C:\Downloaded Web Sites\www.monkeyflip.app\_next\static\chunks\main-e0ddca6ca271803b.js
+Content Type: application/javascript
+
+Uri: https://www.monkeyflip.app/_next/static/chunks/pages/index-f5aa260cc24d3e17.js
+File Name: C:\Downloaded Web Sites\www.monkeyflip.app\_next\static\chunks\pages\index-f5aa260cc24d3e17.js
+Content Type: application/javascript
+
+Uri: https://www.monkeyflip.app/_next/static/chunks/pages/_app-c9b5b3719124bee1.js
+File Name: C:\Downloaded Web Sites\www.monkeyflip.app\_next\static\chunks\pages\_app-c9b5b3719124bee1.js
+Content Type: application/javascript
+
+Uri: https://www.monkeyflip.app/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\www.monkeyflip.app\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://www.monkeyflip.app/_next/static/chunks/webpack-ff9c5114155ee419.js
+File Name: C:\Downloaded Web Sites\www.monkeyflip.app\_next\static\chunks\webpack-ff9c5114155ee419.js
+Content Type: application/javascript
+
+Uri: https://www.monkeyflip.app/_next/static/css/0e7ae27fa8e28e9c.css
+File Name: C:\Downloaded Web Sites\www.monkeyflip.app\_next\static\css\0e7ae27fa8e28e9c.css
+Content Type: text/css
+
+Uri: https://www.monkeyflip.app/_next/static/LTTBAoDIUNufPCv397FC-/_buildManifest.js
+File Name: C:\Downloaded Web Sites\www.monkeyflip.app\_next\static\LTTBAoDIUNufPCv397FC-\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://www.monkeyflip.app/_next/static/LTTBAoDIUNufPCv397FC-/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\www.monkeyflip.app\_next\static\LTTBAoDIUNufPCv397FC-\_ssgManifest.js
+Content Type: application/javascript
+
